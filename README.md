@@ -34,7 +34,7 @@ class Suseendar:
             "web_basics": ["HTML", "CSS", "JavaScript"]
         }
         self.currently_learning = [
-            "Advanced Data Engineering",
+            "Data Engineering",
             "Cloud-based ETL Pipelines",
             "API Integrations"
         ]
@@ -140,7 +140,6 @@ print(me.motto())
 |---|---|---|
 | **[DataFlow ETL Engine](https://github.com/Suseendarakash24)** | `Python` `Pandas` `SQLite` `Streamlit` | Configuration-driven ETL pipeline with CSV ingestion, JSON schema validation & chunked cleaning. Achieved **97% data accuracy**. Live monitoring via Streamlit dashboard + Discord webhook alerts. |
 | **[Cloud-Native Notes Management System](https://github.com/Suseendarakash24)** | `Python` `Flask` `Docker` `GitHub Actions` `Render` | Containerized with Docker; automated CI/CD cut deployment time by **90%**. Secure auth via Flask-Login with isolated, persistent storage and a real-time search UI. |
-| **[Job Market Intelligence Platform](https://github.com/Suseendarakash24/job-market-intelligence-platform)** | `Python` `ETL` `MySQL` `Streamlit` | Career intelligence platform that parses resumes, detects skills, and matches candidates to relevant job opportunities for a target role. |
 
 </div>
 
@@ -163,7 +162,7 @@ print(me.motto())
 ### 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
-DRBCCC Hindu College, University of Madras — *Graduating 2026* — **CGPA: 7.31**
+DRBCCC Hindu College, University of Madras — *Graduating 2026* — **CGPA: 7.8**
 
 ### 📚 Currently Learning
 
