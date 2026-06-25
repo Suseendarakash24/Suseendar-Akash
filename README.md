@@ -166,7 +166,7 @@ DRBCCC Hindu College, University of Madras — *Graduating 2026* — **CGPA: 7.8
 
 ### 📚 Currently Learning
 
-`Advanced Data Engineering` · `Cloud-based ETL Pipelines` · `API Integrations`
+`Data Engineering` · `Cloud-based ETL Pipelines` · `API Integrations`
 
 ---
 
