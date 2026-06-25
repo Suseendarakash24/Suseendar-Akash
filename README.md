@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- 1. HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suseendar%20Akash%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Python%20Developer%20%7C%20Data%20Engineering%20%26%20ETL%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suseendar%20Akash%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BCA%20Graduate%20%7C%20Python%20%26%20Problem-Solving%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- 2. TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+Data+Pipelines+that+Don't+Break;Python+%7C+SQL+%7C+ETL+%7C+Data+Visualization;Turning+Messy+CSVs+into+Clean+Insights;BCA+Graduate+%2C+2026+%7C+Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=BCA+Graduate+%2C+2026+%7C+University+of+Madras;Curious+Learner+%7C+Problem+Solver+%7C+Builder;Python+%7C+SQL+%7C+Data+%7C+Always+Exploring+New+Tech;Open+to+Learning%2C+Growing+%26+Collaborating" alt="Typing SVG" />
 </a>
 
 <p>
@@ -34,14 +34,14 @@ class Suseendar:
             "web_basics": ["HTML", "CSS", "JavaScript"]
         }
         self.currently_learning = [
-            "Data Engineering",
-            "Cloud-based ETL Pipelines",
-            "API Integrations"
+            "Cloud Computing",
+            "DevOps (Docker, CI/CD)",
+            "Advanced SQL & System Design"
         ]
-        self.fun_fact = "I'd rather debug a broken pipeline than leave dirty data unclean."
+        self.fun_fact = "I enjoy turning messy, real-world problems into clean, working solutions."
 
     def motto(self) -> str:
-        return "Clean data in. Clear insights out."
+        return "Stay curious. Keep building. Keep learning."
 
 
 me = Suseendar()
@@ -81,6 +81,14 @@ print(me.motto())
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+**Currently Exploring — Cloud & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 </p>
 
 ---
@@ -134,14 +142,36 @@ print(me.motto())
 
 ### 🚀 Featured Projects
 
-<div align="center">
+<details>
+<summary><b>🔄 DataFlow ETL Engine</b> — <code>Python</code> <code>Pandas</code> <code>SQLite</code> <code>Streamlit</code></summary>
+<br>
 
-| Project | Stack | Highlights |
-|---|---|---|
-| **[DataFlow ETL Engine](https://github.com/Suseendarakash24)** | `Python` `Pandas` `SQLite` `Streamlit` | Configuration-driven ETL pipeline with CSV ingestion, JSON schema validation & chunked cleaning. Achieved **97% data accuracy**. Live monitoring via Streamlit dashboard + Discord webhook alerts. |
-| **[Cloud-Native Notes Management System](https://github.com/Suseendarakash24)** | `Python` `Flask` `Docker` `GitHub Actions` `Render` | Containerized with Docker; automated CI/CD cut deployment time by **90%**. Secure auth via Flask-Login with isolated, persistent storage and a real-time search UI. |
+**What I did:**
+Built a configuration-driven ETL pipeline that ingests CSV files, validates them against JSON-based schema rules, cleans the data in chunks, and loads it into SQLite. Added a Streamlit dashboard for live monitoring, with Discord webhook alerts for real-time error notifications.
 
-</div>
+**What I learned:**
+How to design a pipeline that's *configurable* rather than hardcoded, how schema validation prevents bad data from propagating downstream, and how to build simple but effective monitoring/alerting around a data system.
+
+**Outcome:**
+Improved data accuracy to **97%**, with automated alerts that catch failures as they happen instead of after the fact.
+
+</details>
+
+<details>
+<summary><b>☁️ Cloud-Native Notes Management System</b> — <code>Python</code> <code>Flask</code> <code>Docker</code> <code>GitHub Actions</code> <code>Render</code></summary>
+<br>
+
+**What I did:**
+Built a notes management web app with secure user authentication (Flask-Login), session handling, and a responsive UI with real-time search and filtering. Containerized the app with Docker and set up CI/CD using GitHub Actions for automated deployment to Render.
+
+**What I learned:**
+Hands-on experience with containerization, automating deployments instead of doing them manually, and how to keep user data isolated and persistent using a relational database.
+
+**Outcome:**
+Cut deployment time by **90%** through CI/CD automation, with a working, deployed cloud-hosted application.
+
+</details>
+
 
 ---
 
@@ -154,6 +184,7 @@ print(me.motto())
 | Infosys Springboard | Basics of Python \| Object-Oriented Programming Using Python |
 | Cisco Networking Academy | Data Science Essentials Using Python |
 | CASS Academy | Advanced Diploma in Information Technology — **Grade A** |
+| CSC Educational Institution | DevOps Training Program |
 
 </div>
 
@@ -162,11 +193,11 @@ print(me.motto())
 ### 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**
-DRBCCC Hindu College, University of Madras — *Graduating 2026* — **CGPA: 7.8**
+DRBCCC Hindu College, University of Madras — *Graduating 2026* — **CGPA: 7.31**
 
 ### 📚 Currently Learning
 
-`Data Engineering` · `Cloud-based ETL Pipelines` · `API Integrations`
+`Cloud Computing` · `DevOps (Docker, CI/CD)` · `DataEngineering`
 
 ---
 
