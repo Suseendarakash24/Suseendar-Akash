@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- 1. HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suseendar%20Akash%20L&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=BCA%20Graduate%20%7C%20Data%20%26%20Cloud%20Enthusiast%20%7C%20Building%20%26%20Learning%20in%20Public&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20Suseendar%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Curious%20by%20default%20%C2%B7%20Learns%20by%20building%20%C2%B7%20Documents%20the%20journey%2C%20not%20just%20the%20result&descAlignY=62&descSize=15" width="100%"/>
 
-<!-- 2. TYPING HEADER -->
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=BCA+Graduate+%7C+Class+of+2026;Python+%2B+SQL+%2B+Data+Pipelines;Exploring+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Building+in+Public%2C+One+Repo+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=BCA+Graduate+%7C+2026;Python+%2B+SQL+%2B+Data+Pipelines;Exploring+Cloud+%26+DevOps+%E2%98%81%EF%B8%8F;Building+in+Public%2C+One+Repo+at+a+Time" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=suseendarakash24&style=flat-square&color=70a5fd&label=Profile+Views" />
