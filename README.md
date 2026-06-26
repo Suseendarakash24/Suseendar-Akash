@@ -26,7 +26,7 @@ class Suseendar:
             "Pandas", "Flask", "Power BI", "Tableau"
         ]
         self.currently_learning = [
-            "Docker", "GitHub Actions", "Render", "Cloud & DevOps fundamentals"
+            "Docker", "GitHub Actions", "Cloud & DevOps fundamentals"
         ]
         self.fun_fact = "I'd rather document the journey than just flex the result."
 
